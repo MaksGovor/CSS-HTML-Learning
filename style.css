@@ -38,7 +38,7 @@ body {
   height: 800px;
   border-radius: 12px;
   padding: 100px 24px;
-  color: #fff;
+  color: #ffffff;
   position: relative;
 }
 
@@ -95,7 +95,7 @@ body {
   display: inline-block;
   cursor: pointer;
   border-radius: 4px;
-  border: 2px solid #fff;
+  border: 2px solid #ffffff;
   transition: opacity .3s ease,  transform .3s ease,  color .3s ease, background-color .3s ease;
   transform: translateY(-100%);
   opacity: 0;
@@ -109,7 +109,7 @@ body {
   transform: translateY(0);
   opacity: 1;
   color: #212121;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 .box .item:hover:after {
